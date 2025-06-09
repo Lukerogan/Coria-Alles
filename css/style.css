@@ -53,3 +53,13 @@ body{
     display: flex;
     align-items: center;
 }
+.container-socials{
+    display: flex;
+}
+.soch{
+    width: 50px;
+}
+
+.soc{
+   align-items: end;
+}
