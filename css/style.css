@@ -31,3 +31,25 @@ button{
 body{
     margin: 0;
 }
+
+
+.container-intro{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.handfaceimg{
+    width: 100%;
+   
+}
+
+.row{
+    width: 100vw;
+}
+.col{
+    width: 50vw;
+}
+.container-work{
+    display: flex;
+    align-items: center;
+}
